@@ -17,7 +17,7 @@ TARGET_PADDING = 30
 
 BG_COLOR = (0, 25, 40)  # 0 is no red , 25 is green 40 is blue
 
-LIVES = 3
+LIVES = 5
 
 TOP_BAR_HEIGHT = 50
 
